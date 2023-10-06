@@ -1,0 +1,165 @@
+total 97421
+   1 a_filename.txt
+   1 c_filename.txt
+   1 d_filename.txt
+ 140 Download_dataset.ipynb
+   1 f_filename.txt
+   0 filename_list.txt
+   1 g_filename.txt
+   1 h_filename.txt
+   1 i_filename.txt
+   1 j_filename.txt
+   1 l_filename.txt
+   2 m_filename.txt
+   0 n_filename.txt
+   1 o_filename.txt
+   2 p_filename.txt
+ 375 URMP_Dataset_Annotation___01_Jupiter_1_vn.mp3
+ 375 URMP_Dataset_Annotation___01_Jupiter_2_vc.mp3
+ 276 URMP_Dataset_Annotation___02_Sonata_1_vn.mp3
+ 276 URMP_Dataset_Annotation___02_Sonata_2_vn.mp3
+ 580 URMP_Dataset_Annotation___03_Dance_1_fl.mp3
+ 580 URMP_Dataset_Annotation___03_Dance_2_cl.mp3
+ 938 URMP_Dataset_Annotation___04_Allegro_1_fl.mp3
+ 938 URMP_Dataset_Annotation___04_Allegro_2_fl.mp3
+ 521 URMP_Dataset_Annotation___05_Entertainer_1_tpt.mp3
+ 521 URMP_Dataset_Annotation___05_Entertainer_2_tpt.mp3
+ 523 URMP_Dataset_Annotation___06_Entertainer_1_sax.mp3
+ 523 URMP_Dataset_Annotation___06_Entertainer_2_sax.mp3
+1608 URMP_Dataset_Annotation___07_GString_1_tpt.mp3
+1608 URMP_Dataset_Annotation___07_GString_2_tbn.mp3
+ 211 URMP_Dataset_Annotation___08_Spring_1_fl.mp3
+ 211 URMP_Dataset_Annotation___08_Spring_2_vn.mp3
+1186 URMP_Dataset_Annotation___09_Jesus_1_tpt.mp3
+1186 URMP_Dataset_Annotation___09_Jesus_2_vn.mp3
+ 614 URMP_Dataset_Annotation___10_March_1_tpt.mp3
+ 614 URMP_Dataset_Annotation___10_March_2_sax.mp3
+ 623 URMP_Dataset_Annotation___11_Maria_1_ob.mp3
+ 623 URMP_Dataset_Annotation___11_Maria_2_vc.mp3
+ 782 URMP_Dataset_Annotation___12_Spring_1_vn.mp3
+ 782 URMP_Dataset_Annotation___12_Spring_2_vn.mp3
+ 782 URMP_Dataset_Annotation___12_Spring_3_vc.mp3
+ 274 URMP_Dataset_Annotation___13_Hark_1_vn.mp3
+ 274 URMP_Dataset_Annotation___13_Hark_2_vn.mp3
+ 274 URMP_Dataset_Annotation___13_Hark_3_va.mp3
+ 542 URMP_Dataset_Annotation___14_Waltz_1_fl.mp3
+ 542 URMP_Dataset_Annotation___14_Waltz_2_fl.mp3
+ 542 URMP_Dataset_Annotation___14_Waltz_3_cl.mp3
+ 311 URMP_Dataset_Annotation___15_Surprise_1_tpt.mp3
+ 311 URMP_Dataset_Annotation___15_Surprise_2_tpt.mp3
+ 318 URMP_Dataset_Annotation___15_Surprise_3_tpt.mp3
+ 311 URMP_Dataset_Annotation___16_Surprise_1_tpt.mp3
+ 311 URMP_Dataset_Annotation___16_Surprise_2_tpt.mp3
+ 311 URMP_Dataset_Annotation___16_Surprise_3_sax.mp3
+ 558 URMP_Dataset_Annotation___17_Nocturne_1_vn.mp3
+ 571 URMP_Dataset_Annotation___17_Nocturne_2_fl.mp3
+ 558 URMP_Dataset_Annotation___17_Nocturne_3_cl.mp3
+ 558 URMP_Dataset_Annotation___18_Nocturne_1_vn.mp3
+ 558 URMP_Dataset_Annotation___18_Nocturne_2_fl.mp3
+ 558 URMP_Dataset_Annotation___18_Nocturne_3_tpt.mp3
+ 796 URMP_Dataset_Annotation___19_Pavane_1_cl.mp3
+ 778 URMP_Dataset_Annotation___19_Pavane_2_vn.mp3
+ 778 URMP_Dataset_Annotation___19_Pavane_3_vc.mp3
+ 778 URMP_Dataset_Annotation___20_Pavane_1_tpt.mp3
+ 778 URMP_Dataset_Annotation___20_Pavane_2_vn.mp3
+ 778 URMP_Dataset_Annotation___20_Pavane_3_vc.mp3
+ 443 URMP_Dataset_Annotation___21_Rejouissance_1_cl.mp3
+ 443 URMP_Dataset_Annotation___21_Rejouissance_2_tbn.mp3
+ 443 URMP_Dataset_Annotation___21_Rejouissance_3_tba.mp3
+ 453 URMP_Dataset_Annotation___22_Rejouissance_1_sax.mp3
+ 443 URMP_Dataset_Annotation___22_Rejouissance_2_tbn.mp3
+ 443 URMP_Dataset_Annotation___22_Rejouissance_3_tba.mp3
+ 453 URMP_Dataset_Annotation___23_Rejouissance_1_cl.mp3
+ 443 URMP_Dataset_Annotation___23_Rejouissance_2_sax.mp3
+ 443 URMP_Dataset_Annotation___23_Rejouissance_3_tba.mp3
+ 292 URMP_Dataset_Annotation___24_Pirates_1_vn.mp3
+ 292 URMP_Dataset_Annotation___24_Pirates_2_vn.mp3
+ 292 URMP_Dataset_Annotation___24_Pirates_3_va.mp3
+ 292 URMP_Dataset_Annotation___24_Pirates_4_vc.mp3
+ 292 URMP_Dataset_Annotation___25_Pirates_1_vn.mp3
+ 292 URMP_Dataset_Annotation___25_Pirates_2_vn.mp3
+ 292 URMP_Dataset_Annotation___25_Pirates_3_va.mp3
+ 292 URMP_Dataset_Annotation___25_Pirates_4_sax.mp3
+ 498 URMP_Dataset_Annotation___26_King_1_vn.mp3
+ 509 URMP_Dataset_Annotation___26_King_2_vn.mp3
+ 498 URMP_Dataset_Annotation___26_King_3_va.mp3
+ 498 URMP_Dataset_Annotation___26_King_4_vc.mp3
+ 509 URMP_Dataset_Annotation___27_King_1_vn.mp3
+ 498 URMP_Dataset_Annotation___27_King_2_vn.mp3
+ 498 URMP_Dataset_Annotation___27_King_3_va.mp3
+ 498 URMP_Dataset_Annotation___27_King_4_sax.mp3
+1018 URMP_Dataset_Annotation___28_Fugue_1_fl.mp3
+1018 URMP_Dataset_Annotation___28_Fugue_2_ob.mp3
+1018 URMP_Dataset_Annotation___28_Fugue_3_cl.mp3
+1018 URMP_Dataset_Annotation___28_Fugue_4_bn.mp3
+1003 URMP_Dataset_Annotation___29_Fugue_1_fl.mp3
+1026 URMP_Dataset_Annotation___29_Fugue_2_fl.mp3
+1003 URMP_Dataset_Annotation___29_Fugue_3_ob.mp3
+1026 URMP_Dataset_Annotation___29_Fugue_4_cl.mp3
+1003 URMP_Dataset_Annotation___30_Fugue_1_fl.mp3
+1003 URMP_Dataset_Annotation___30_Fugue_2_fl.mp3
+1003 URMP_Dataset_Annotation___30_Fugue_3_ob.mp3
+1003 URMP_Dataset_Annotation___30_Fugue_4_sax.mp3
+ 478 URMP_Dataset_Annotation___31_Slavonic_1_tpt.mp3
+ 478 URMP_Dataset_Annotation___31_Slavonic_2_tpt.mp3
+ 478 URMP_Dataset_Annotation___31_Slavonic_3_hn.mp3
+ 478 URMP_Dataset_Annotation___31_Slavonic_4_tbn.mp3
+1036 URMP_Dataset_Annotation___32_Fugue_1_vn.mp3
+1012 URMP_Dataset_Annotation___32_Fugue_2_vn.mp3
+1012 URMP_Dataset_Annotation___32_Fugue_3_va.mp3
+1036 URMP_Dataset_Annotation___32_Fugue_4_vc.mp3
+ 286 URMP_Dataset_Annotation___33_Elise_1_tpt.mp3
+ 279 URMP_Dataset_Annotation___33_Elise_2_tpt.mp3
+ 279 URMP_Dataset_Annotation___33_Elise_3_hn.mp3
+ 279 URMP_Dataset_Annotation___33_Elise_4_tbn.mp3
+1015 URMP_Dataset_Annotation___34_Fugue_1_tpt.mp3
+1015 URMP_Dataset_Annotation___34_Fugue_2_tpt.mp3
+1039 URMP_Dataset_Annotation___34_Fugue_3_hn.mp3
+1015 URMP_Dataset_Annotation___34_Fugue_4_tbn.mp3
+ 748 URMP_Dataset_Annotation___35_Rondeau_1_vn.mp3
+ 765 URMP_Dataset_Annotation___35_Rondeau_2_vn.mp3
+ 765 URMP_Dataset_Annotation___35_Rondeau_3_va.mp3
+ 748 URMP_Dataset_Annotation___35_Rondeau_4_db.mp3
+ 748 URMP_Dataset_Annotation___36_Rondeau_1_vn.mp3
+ 748 URMP_Dataset_Annotation___36_Rondeau_2_vn.mp3
+ 765 URMP_Dataset_Annotation___36_Rondeau_3_va.mp3
+ 765 URMP_Dataset_Annotation___36_Rondeau_4_vc.mp3
+ 748 URMP_Dataset_Annotation___37_Rondeau_1_fl.mp3
+ 748 URMP_Dataset_Annotation___37_Rondeau_2_vn.mp3
+ 748 URMP_Dataset_Annotation___37_Rondeau_3_va.mp3
+ 748 URMP_Dataset_Annotation___37_Rondeau_4_cl.mp3
+ 695 URMP_Dataset_Annotation___38_Jerusalem_1_vn.mp3
+ 711 URMP_Dataset_Annotation___38_Jerusalem_2_vn.mp3
+ 695 URMP_Dataset_Annotation___38_Jerusalem_3_va.mp3
+ 695 URMP_Dataset_Annotation___38_Jerusalem_4_vc.mp3
+ 695 URMP_Dataset_Annotation___38_Jerusalem_5_db.mp3
+ 695 URMP_Dataset_Annotation___39_Jerusalem_1_vn.mp3
+ 711 URMP_Dataset_Annotation___39_Jerusalem_2_vn.mp3
+ 695 URMP_Dataset_Annotation___39_Jerusalem_3_va.mp3
+ 695 URMP_Dataset_Annotation___39_Jerusalem_4_sax.mp3
+ 711 URMP_Dataset_Annotation___39_Jerusalem_5_db.mp3
+ 234 URMP_Dataset_Annotation___40_Miserere_1_fl.mp3
+ 234 URMP_Dataset_Annotation___40_Miserere_2_fl.mp3
+ 234 URMP_Dataset_Annotation___40_Miserere_3_ob.mp3
+ 234 URMP_Dataset_Annotation___40_Miserere_4_cl.mp3
+ 234 URMP_Dataset_Annotation___40_Miserere_5_bn.mp3
+ 240 URMP_Dataset_Annotation___41_Miserere_1_fl.mp3
+ 234 URMP_Dataset_Annotation___41_Miserere_2_fl.mp3
+ 234 URMP_Dataset_Annotation___41_Miserere_3_ob.mp3
+ 234 URMP_Dataset_Annotation___41_Miserere_4_sax.mp3
+ 234 URMP_Dataset_Annotation___41_Miserere_5_bn.mp3
+1486 URMP_Dataset_Annotation___42_Arioso_1_tpt.mp3
+1486 URMP_Dataset_Annotation___42_Arioso_2_tpt.mp3
+1486 URMP_Dataset_Annotation___42_Arioso_3_hn.mp3
+1486 URMP_Dataset_Annotation___42_Arioso_4_tbn.mp3
+1486 URMP_Dataset_Annotation___42_Arioso_5_tba.mp3
+ 313 URMP_Dataset_Annotation___43_Chorale_1_tpt.mp3
+ 320 URMP_Dataset_Annotation___43_Chorale_2_tpt.mp3
+ 313 URMP_Dataset_Annotation___43_Chorale_3_hn.mp3
+ 313 URMP_Dataset_Annotation___43_Chorale_4_tbn.mp3
+ 313 URMP_Dataset_Annotation___43_Chorale_5_tba.mp3
+1343 URMP_Dataset_Annotation___44_K515_1_vn.mp3
+1312 URMP_Dataset_Annotation___44_K515_2_vn.mp3
+1312 URMP_Dataset_Annotation___44_K515_3_va.mp3
+1312 URMP_Dataset_Annotation___44_K515_4_va.mp3
+1312 URMP_Dataset_Annotation___44_K515_5_vc.mp3
